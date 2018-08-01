@@ -5,4 +5,5 @@ Practice to visualize energy use data with Parallel Coordinates:　https://anlei
 
 References: 
 https://plot.ly/javascript/parallel-coordinates-plot/
+</br>
 https://bl.ocks.org/jasondavies/1341281
