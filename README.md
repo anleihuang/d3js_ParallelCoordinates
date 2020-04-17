@@ -1,5 +1,5 @@
 # Parallel-Coordinates
-https://anleihuang.github.io/Parallel-Coordinates/
+https://anleihuang.github.io/d3js_ParallelCoordinates/
 
 Practice to visualize energy use data with Parallel Coordinates
 Practice to demonstrate data with jQuery's plug-in:DataTables
